@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @Harsha200105
+- 👋 Hi, I’m Harsha
 - 👀 I’m interested in Web Development, AI and Deep Learning.
 - 🌱 I’m currently learning Data Structures and Algorithms in python.
 - 💞️ I’m looking to collaborate on Web based open source applications, 
