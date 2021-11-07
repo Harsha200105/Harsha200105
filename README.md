@@ -1,6 +1,6 @@
 - 👋 Hi, I’m Harsha
 - 👀 I’m interested in Web Development, AI and Deep Learning.
-- 🌱 I’m currently learning Data Structures and Algorithms in python.
+- 🌱 I’m currently learning Data Structures and Algorithms.
 - 💞️ I’m looking to collaborate on Web based open source applications, 
 It will be great opportunity for me too colaborate with some experienced team members.
 - 🤩 Fun fact - I love to write and play guitar / piano!
