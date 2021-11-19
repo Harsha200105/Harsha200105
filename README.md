@@ -19,7 +19,7 @@ Also you can reach out to me on Devfolio @https://devfolio.co/@Technerd
 
 <!-- ![Desktop Assistant Growth Chart](https://starchart.cc/Harsha200105/https://github.com/Harsha200105/DesktopAssistant.svg) -->
 
-### 🍁 My Skill stack :
+### 👩‍💻 Languages & Tools :
 
 |               |           |
 |       ---     |    ---    |
