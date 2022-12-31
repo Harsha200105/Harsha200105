@@ -9,8 +9,6 @@
 <!-- - 📫 How to reach me - You can find me on Twitter @https://twitter.com/Harsha052001
 Also you can reach out to me on Devfolio @https://devfolio.co/@Technerd
  -->
- 
- [![Harsha's GitHub Activity Graph](https://activity-graph.herokuapp.com/graph?username=Harsha200105)](https://git.io/J1Ycx)
 
 
  | ![Harsha's GitHub Statistics](https://github-readme-stats.vercel.app/api?username=Harsha200105&theme=blue-green)  | ![Majorly used languages](https://github-readme-stats.vercel.app/api/top-langs/?username=Harsha200105&theme=blue-green)  |
