@@ -2,10 +2,10 @@
 
 # <p align="center">I'm Harsha,</p>
   - A passionate full stack Developer, a self-led learner, and a software enthusiast who loves to build products and majorly works in python
-  - 👀 I’m interested in Web Development, AI and Deep Learning.
-  - 🌱 I’m currently learning Data Structures and Algorithms.
-  - 💞️ I’m looking to collaborate on Web based open source applications, It will be great opportunity for me to collaborate with some experienced team members.
-  - 🤩 Fun fact - I love to write and play guitar / piano!
+  - I've worked with C# and have a brisk contribution in Game Development too.
+  - 🌱 I'm Learning AL-Go currently The backend Language we use to build for managing consumer services and Financial recordings based on ERP System.
+  - ✨ I’m looking for Interesting Ideas to collaborate with in ML/AI as I have a bit of experience there.
+  - 🤩 Besides Developing, I enjoy writing technical blogs and short articles for myself.
 <!-- - 📫 How to reach me - You can find me on Twitter @https://twitter.com/Harsha052001
 Also you can reach out to me on Devfolio @https://devfolio.co/@Technerd
  -->
