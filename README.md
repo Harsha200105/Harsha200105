@@ -1,4 +1,4 @@
-## <p align="center">Hello World!</p>
+\\\\\\\\\## <p align="center">Hello World!</p>
 
 # <p align="center">I'm Harsha,</p>
   - A passionate full stack Developer, a self-led learner, and a software enthusiast who loves to build products and majorly works in python
@@ -11,7 +11,7 @@ Also you can reach out to me on Devfolio @https://devfolio.co/@Technerd
  -->
 
 
- | ![Harsha's GitHub Statistics](https://github-readme-stats.vercel.app/api?username=Harsha200105&theme=blue-green)  | ![Majorly used languages](https://github-readme-stats.vercel.app/api/top-langs/?username=Harsha200105&theme=blue-green)  |
+<!-- | ![Harsha's GitHub Statistics](https://github-readme-stats.vercel.app/api?use\\rname=Harsha200105&theme=blue-green)  | ![Majorly used languages](https://github-readme-stats.vercel.app/api/top-langs/?username=Harsha200105&theme=blue-green)  | -->
 | --- | --- |
 | ![Harsha's GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=Harsha200105&theme=blue-green) | ![Jokes apart](https://readme-jokes.vercel.app/api) |
 
